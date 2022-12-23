@@ -1,7 +1,7 @@
 # Query implementation on SQL database using Python
 
 An SQL database called 'The Citadel' is created. It stores data pertaining to the popular TV show 'The Game of Thrones'.
-`ERModel.jpg` shows the entity relationship model explaining the database schema, `database.sql` contains the SQL dump for creating the database and `insert_data.sql` contains the SQL dump for inserting data into the database. A python script `functionality.py` is written which executes queries on our database using pymysql.
+`ERModel.jpg` shows the entity relationship model explaining the database schema, `database.sql` contains the SQL dump for creating the database and `insert_data.sql` contains the SQL dump for inserting data into the database. A python script `functionality.py` is written which executes queries for data retreival and updation on our database using pymysql.
 
 The following queries have been implemented:
 
